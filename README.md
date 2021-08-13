@@ -10,10 +10,36 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonLopes&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-### Hellooo! Welcome to my profile
+### Olá!
 
-My name is Emerson and I'm developer.
+Meu nome é Emerson e eu sou desenvolvedor.
 
-- 🔭 I’m currently working on mobile development with flutter
-- 🌱 I’m a delphi developer too
-- 📫 How to reach me: [Telegram](https://t.me/Emerson_Lopes)
+- 🔭 Estou atualmente trabalhando com desenvolvimento backend com spring boot
+- 🌱 Estou desenvolvendo aplicativos com flutter também
+- 📫 Entre em contato: [Telegram](https://t.me/Emerson_Lopes)
+  
+### Minhas Skills
+
+  **Principais liguagens e frameworks**
+  
+  <div style="display: flex"><br>
+
+  ![JAVA](https://img.shields.io/badge/Java-5E5C5C?style=for-the-badge&logo=java&logoColor=white) ![SPRING](https://img.shields.io/badge/Spring-239120?style=for-the-badge&logo=spring&logoColor=white) ![FLUTTER](https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white) 
+</div>  
+  
+**Utilidades**
+  
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Intelij](https://img.shields.io/badge/-Intelij-333333?style=flat&logo=intelij&logoColor=2C2255)
+
